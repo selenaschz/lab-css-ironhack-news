@@ -240,14 +240,14 @@ header {
   }
 
   .article {
-    width: 43%;
+    width: 44%;
     margin-bottom: 30px;
   }
 
 }
 
   /*Bonus: Iteration 3 | Small Mobile Screens*/
-  @media (width < 480px){
+  @media (max-width: 480px){
 
     /*Navbar*/
     .navbar li {
